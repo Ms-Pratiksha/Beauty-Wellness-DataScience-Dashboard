@@ -1,0 +1,31 @@
+Customer_ID,Age,Skin_Type,Skin_Concern,Budget,Preferred_Category,Product_ID,Product_Category,Product_Price,Rating,Review_Sentiment,Review_Text,Purchase_Frequency
+C001,21,Dry,Acne,500,Skincare,P001,Skincare,399,4.5,Positive,"This moisturizer made my skin soft and smooth",4
+C002,24,Oily,Acne,1000,Skincare,P002,Skincare,799,4.2,Positive,"Very effective product and helped reduce acne",5
+C003,22,Combination,Dryness,700,Haircare,P003,Haircare,599,4.6,Positive,"My hair feels soft and healthy after using this",3
+C004,28,Dry,Aging,1500,Makeup,P004,Makeup,999,4.7,Positive,"Excellent quality and gives a beautiful finish",2
+C005,25,Oily,Oiliness,800,Skincare,P005,Skincare,499,3.8,Neutral,"The product is okay but the results are average",4
+C006,30,Combination,Pigmentation,1200,Skincare,P006,Skincare,899,4.4,Positive,"Very good product with visible improvement",3
+C007,20,Dry,Dryness,600,Haircare,P007,Haircare,450,4.1,Positive,"Good product and my hair feels less dry",2
+C008,26,Oily,Acne,900,Skincare,P008,Skincare,699,3.5,Negative,"I did not see much improvement and the product was disappointing",5
+C009,32,Dry,Aging,2000,Makeup,P009,Makeup,1499,4.8,Positive,"Amazing product with excellent quality",2
+C010,27,Combination,Frizz,1000,Haircare,P010,Haircare,799,4.3,Positive,"It reduced frizz and made my hair manageable",3
+C011,23,Oily,Acne,700,Skincare,P011,Skincare,599,3.9,Neutral,"The product works but the results are not very noticeable",4
+C012,29,Dry,Pigmentation,1500,Skincare,P012,Skincare,1099,4.6,Positive,"Very effective and my skin looks brighter",3
+C013,22,Combination,Dryness,800,Haircare,P013,Haircare,650,4.2,Positive,"Nice product and leaves my hair smooth",2
+C014,35,Dry,Aging,2500,Makeup,P014,Makeup,1799,4.9,Positive,"Excellent product and I am very satisfied",1
+C015,24,Oily,Oiliness,600,Skincare,P015,Skincare,399,3.6,Negative,"The product did not work well for my skin",5
+C016,31,Combination,Frizz,1300,Haircare,P016,Haircare,999,4.5,Positive,"Very good quality and works well for frizzy hair",3
+C017,21,Dry,Acne,500,Skincare,P017,Skincare,449,4.0,Neutral,"It is an average product with acceptable results",4
+C018,27,Oily,Pigmentation,1100,Skincare,P018,Skincare,799,4.4,Positive,"Good results and my skin feels healthier",3
+C019,33,Dry,Aging,2200,Makeup,P019,Makeup,1599,4.7,Positive,"Beautiful finish and excellent product quality",2
+C020,26,Combination,Frizz,900,Haircare,P020,Haircare,699,4.1,Positive,"Good product and it helped control frizz",3
+C021,23,Oily,Acne,750,Skincare,P021,Skincare,549,3.7,Negative,"I was not happy with the results",4
+C022,30,Dry,Dryness,1400,Skincare,P022,Skincare,999,4.5,Positive,"Very moisturizing and suitable for dry skin",2
+C023,25,Combination,Frizz,1000,Haircare,P023,Haircare,749,4.3,Positive,"My hair became smoother after using this product",3
+C024,34,Dry,Aging,1800,Makeup,P024,Makeup,1299,4.8,Positive,"Excellent makeup product with a natural finish",2
+C025,22,Oily,Oiliness,650,Skincare,P025,Skincare,499,3.8,Neutral,"The product is decent but nothing special",5
+C026,29,Combination,Pigmentation,1200,Skincare,P026,Skincare,899,4.5,Positive,"Very effective product and good value for money",3
+C027,24,Dry,Dryness,700,Haircare,P027,Haircare,599,4.2,Positive,"Good product for dry hair and gives softness",2
+C028,36,Oily,Aging,2000,Makeup,P028,Makeup,1499,4.6,Positive,"High quality product and gives a great look",1
+C029,27,Combination,Frizz,950,Haircare,P029,Haircare,699,4.0,Neutral,"The product is fine but the results are average",3
+C030,23,Oily,Acne,800,Skincare,P030,Skincare,649,3.4,Negative,"The product caused disappointment and did not help my skin",5
